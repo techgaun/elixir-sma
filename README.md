@@ -1,6 +1,8 @@
 # elixir-sma
 Simple Moving Average examples in elixir
 
+_If you are looking for a simple moving average module, check out https://github.com/techgaun/ex_sma_
+
 ---
 
 Provides [two](sma1.ex) [samples](sma2.ex) of moving average calculation in [elixir](http://elixir-lang.org) and also compares with [PHP implementation](sma.php)
